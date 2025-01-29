@@ -9,7 +9,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 谢谢标注使用“老谭原创”。
 
-![GUI Screenshot]() 
+![GUI Screenshot](https://raw.githubusercontent.com/fattank/vllm-chatbot-deepseek/main/vllm-chatbot-GUI.jpg) 
 
 ## 特性亮点
 - 🚀 支持多GPU张量并行计算（2-8卡）
