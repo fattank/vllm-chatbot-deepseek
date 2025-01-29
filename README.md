@@ -6,7 +6,7 @@
 
 由于很多朋友使用ollama部署deepseek本地模型效果不佳，分析原因，可能是基于Qwen的模型压缩到Q4和Q8，质量下降太多，所以做了这个vllm的fp16浮点半精度版本，并带有图形界面，方便操作。推荐使用32b模型，实力强的朋友使用70b不压缩的版本效果不错。
 
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 谢谢标注使用“老谭原创”。
 
 ![GUI Screenshot](https://raw.githubusercontent.com/fattank/vllm-chatbot-deepseek/main/vllm-chatbot-GUI.jpg) 
